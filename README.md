@@ -7,7 +7,7 @@ An alternative solution via **combinatorics**, which aims to provide a combinato
 
 ---
 
-### [**Approximative Thinking - Approximation of the area of a circle with regular polygons**](https://nbviewer.jupyter.org/github/Gordi33/Mathematical-Problems/blob/master/ApproximativeThinking%20.ipynb)
+### [**Approximative Thinking - Approximation of the area of a circle with regular polygons**](https://nbviewer.org/github/Gordi33/Mathematical-Problems/blob/master/ApproximativeThinking.ipynb)
 The area of a circle disc is approximated by regular polygons.
 
 ---
