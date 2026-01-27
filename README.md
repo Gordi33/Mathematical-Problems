@@ -11,3 +11,8 @@ An alternative solution via **combinatorics**, which aims to provide a combinato
 The area of a circle disc is approximated by regular polygons.
 
 ---
+
+### [**Dimensional Reduction - Discrete Reduction of Combinations**](https://nbviewer.org/github/Gordi33/Mathematical-Problems/blob/master/DimensionalReduction.ipynb)
+The area of a circle disc is approximated by regular polygons.
+
+---
