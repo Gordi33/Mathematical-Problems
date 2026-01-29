@@ -12,7 +12,7 @@ The area of a circle disc is approximated by regular polygons.
 
 ---
 
-### [**Dimensional Reduction - Discrete Reduction of Combinations**](https://nbviewer.org/github/Gordi33/Mathematical-Problems/blob/29a0a61cc03d63e5ada3929b5c855663b361a889/DimensionalReduction.ipynb)
+### [**Dimensional Reduction - Discrete Reduction of Combinations**](https://nbviewer.org/github/Gordi33/Mathematical-Problems/blob/d9380b6147896a77ac08761b6a816e7f0ba52ca4/DimensionalReduction.ipynb?flush=1)
 The total number of combinations is reduced by breaking them down into its multisets. Each multiset can then be weighted by its number of permutations to reduce the cycle evaluation-run significantly.
 
 ---
